@@ -1,7 +1,7 @@
 gitの練習
 
 がんばろお
-
+git ccccoommmiittt --amend忘れた!!
 
 うんちょっちょ
 あはははっはは
